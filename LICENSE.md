@@ -1,4 +1,4 @@
-# 
+# ultimate bot for Polymarket - gas-optimization and trailing-stops is the best Polymarket bot, featuring gas-optimization and trailing-stops. Smart, fast, and optimized for trading
 
 
 
